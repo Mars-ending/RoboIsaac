@@ -124,5 +124,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d6ec46e17f73740b2b426c4205327273, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ItemPickup
-  sizeAmount: 2
-  damageAmount: 2
+  addMoveSpeed: 0
+  addBulletSpeed: 0
+  addBulletSize: 2
+  addDamage: 2

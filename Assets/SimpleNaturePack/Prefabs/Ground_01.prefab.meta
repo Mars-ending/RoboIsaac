@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: ebee340de387f334f9ac44e044abd8fb
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 20000544
+  packageName: "\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0P\0\0\0\x01\0"
+  packageVersion: 1.0.0
+  assetPath: Assets/SimpleNaturePack/Prefabs/Ground_01.prefab
+  uploadId: 0
+AssetOrigin:
+  serializedVersion: 1
+  productId: 20000544
+  packageName: "\u4F4E\u591A\u8FB9\u5F62\u7B80\u7EA6\u81EA\u7136\u5957\u88C5"
+  packageVersion: 1.0.0
+  assetPath: Assets/SimpleNaturePack/Prefabs/Ground_01.prefab
+  uploadId: 0

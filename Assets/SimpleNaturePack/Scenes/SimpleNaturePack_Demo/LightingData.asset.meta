@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c726b825b6e6d034b915d22d454752e1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 112000000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 20000544
+  packageName: "\u4F4E\u591A\u8FB9\u5F62\u7B80\u7EA6\u81EA\u7136\u5957\u88C5"
+  packageVersion: 1.0.0
+  assetPath: Assets/SimpleNaturePack/Scenes/SimpleNaturePack_Demo/LightingData.asset
+  uploadId: 0

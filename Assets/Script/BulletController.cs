@@ -27,7 +27,7 @@ public class BulletController : MonoBehaviour
         // 2. 重置物理状态
         if (rb != null)
         {
-            rb.useGravity = false;
+            
             rb.linearVelocity = Vector3.zero; // 清除之前的惯性！(Unity 6用linearVelocity，旧版用velocity)
             rb.angularVelocity = Vector3.zero; // 清除旋转惯性
             
