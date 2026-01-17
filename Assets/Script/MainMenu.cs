@@ -9,6 +9,15 @@ public class MainMenu : MonoBehaviour
 
     void Start()
     {
+
+        // === 新增：强制解锁鼠标 ===
+        // 1. 解除锁定（让鼠标可以自由移动）
+        Cursor.lockState = CursorLockMode.None; 
+        // 2. 显示鼠标（让鼠标肉眼可见）
+        Cursor.visible = true;
+        // ============================
+
+
         // 游戏启动时，确保主页显示，任务页隐藏
         // 这样你在编辑器里乱开乱关也没事，运行会自动复位
         if (mainPanel != null) mainPanel.SetActive(true);

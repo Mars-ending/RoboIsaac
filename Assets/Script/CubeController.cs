@@ -108,6 +108,8 @@ public class CubeController : MonoBehaviour
     {
 
 
+        if (PauseMenuController.isGamePaused) return;
+
         // ------------- 1. 跑步音效控制 -------------
         // 判断条件：有速度 且 在地面上
         // (假设你用 CharacterController 或者 Rigidbody 判断了 ground)
